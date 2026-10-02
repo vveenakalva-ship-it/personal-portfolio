@@ -1,0 +1,1 @@
+Visuals are embedded in index.html so the portfolio works reliably when opened locally.
